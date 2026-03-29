@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "NameController",
+    "Method": "GetName",
+    "RelativePath": "api/Name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
